@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PC817)(type KiCad)(uri C:/Users/Shahn/Documents/KiCad/Traffic/Generator_ESP/footprint)(options "")(descr ""))
+  (lib (name ESP8266_nodemcu_foot)(type KiCad)(uri ${KIPRJMOD}/ESP8266_nodemcu_foot)(options "")(descr ""))
+)
